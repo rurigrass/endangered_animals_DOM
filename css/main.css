@@ -1,0 +1,40 @@
+body {
+  font-family: Palatino;
+}
+
+.container {
+  flex-wrap: wrap,
+  justify-content: center;
+}
+
+#bigform {
+  display: flex;
+  justify-content: center;
+  background-color: green;
+}
+
+#continent{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#species {
+  margin-top: 5px;
+}
+
+#name {
+  margin-top: 5px;
+}
+
+.button {
+  margin-bottom: 5px;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+#endangered-animals {
+  background-color: orange;
+}

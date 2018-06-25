@@ -9,7 +9,6 @@ const handleFormSave = function(event) {
   const name = form.name.value;
   const species = form.species.value;
   const continent = form.continent.value;
-console.log(continent);
   const result = document.querySelector('#endangered-animals');
 
   const paragraph = document.createElement('p');
